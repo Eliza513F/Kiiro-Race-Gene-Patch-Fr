@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <!--EN: lethargic-->
+    <Kiiro_Lethargic.label>léthargique</Kiiro_Lethargic.label>
+
+    <!--EN: Carriers of this gene become sleepy easier, and have trouble concentrating while studying and researching-->
+    <Kiiro_Lethargic.description>Les porteuses de ce gène se fatiguent plus vite, et elles ont du mal à se concentrer sur les études et la recherche.</Kiiro_Lethargic.description>
+
+    <!--EN: social cat-->
+    <Kiiro_SocialCat.label>chat social</Kiiro_SocialCat.label>
+
+    <!--EN: Carriers of this gene become more social-->
+    <Kiiro_SocialCat.description>Les porteuses de ce gène sont plus sociables.</Kiiro_SocialCat.description>
+
+    <!--EN: fine cook-->
+    <Kiiro_FineCook.label>cuisinière raffinée</Kiiro_FineCook.label>
+
+    <!--EN: Carriers of this gene spend more time to cook, but greatly reduce poisonous food probability; also spend more time butchering to produce more.-->
+    <Kiiro_FineCook.description>Les porteuses de ce gène prennent plus de temps pour cuisiner, mais ses repas sont beaucoup moins susceptibles de causer l'intoxication alimentaire. Elles prennent également plus de temps pour dépecer afin d'en obtenir plus de viande et de cuir.</Kiiro_FineCook.description>
+
+    <!--EN: medic weakness-->
+    <Kiiro_MedicWeak.label>incompétence médicale</Kiiro_MedicWeak.label>
+
+    <!--EN: Carriers of this gene not good at medicine.-->
+    <Kiiro_MedicWeak.description>Les porteuses de ce gène sont incompétentes en médecine.</Kiiro_MedicWeak.description>
+
+    <!--EN: machine weakness-->
+    <Kiiro_MechineWeak.label>incompétence mécanique</Kiiro_MechineWeak.label>
+
+    <!--EN: Carriers of this gene not good at machine.-->
+    <Kiiro_MechineWeak.description>Les porteuses de ce gène sont incomptétentes en mécanique.</Kiiro_MechineWeak.description>
+
+    <!--EN: plants weakness-->
+    <Kiiro_PlantsWeak.label>incompétence agricole</Kiiro_PlantsWeak.label>
+
+    <!--EN: Carriers of this gene not good at plants.-->
+    <Kiiro_PlantsWeak.description>Les porteuses de ce gène sont incompétentes en agriculture.</Kiiro_PlantsWeak.description>
+
+    <!--EN: mining weakness-->
+    <Kiiro_MiningWeak.label>incompétence en minage</Kiiro_MiningWeak.label>
+
+    <!--EN: Carriers of this gene not good at mining.-->
+    <Kiiro_MiningWeak.description>Les porteuses de ce gène sont incompétentes en minage.</Kiiro_MiningWeak.description>
+
+    <!--EN: nimmble combat-->
+    <Kiiro_NimbleCombat.label>combat agile</Kiiro_NimbleCombat.label>
+
+    <!--EN: Carriers of this gene born with nimble combat skills.-->
+    <Kiiro_NimbleCombat.description>Les porteuses de ce gène sont douées en combat agile.</Kiiro_NimbleCombat.description>
+
+    <!--EN: precise aiming-->
+    <Kiiro_PreciseAiming.label>tir précis</Kiiro_PreciseAiming.label>
+
+    <!--EN: Carriers of this gene born with higher shooting accuracy.-->
+    <Kiiro_PreciseAiming.description>Les porteuses de ce gène sont douées en tir précis.</Kiiro_PreciseAiming.description>
+
+    <!--EN: fragile heart-->
+    <Kiiro_FragileHeart.label>cœur fragile</Kiiro_FragileHeart.label>
+
+    <!--EN: Carriers of this gene become easier mental break.-->
+    <Kiiro_FragileHeart.description>Les porteuses de ce gène sont plus susceptibles aux crises de démence.</Kiiro_FragileHeart.description>
+
+    <!--EN: pain fearing-->
+    <Kiiro_PainFearing.label>peur de la douleur</Kiiro_PainFearing.label>
+
+    <!--EN: Carriers of this gene become easier pain shock.-->
+    <Kiiro_PainFearing.description>Les porteuses de ce gène ont un seuil de tolérance à la douleur plus bas.</Kiiro_PainFearing.description>
+
+</LanguageData>
