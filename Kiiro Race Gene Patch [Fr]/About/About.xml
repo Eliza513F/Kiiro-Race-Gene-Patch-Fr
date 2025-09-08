@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Kiiro Race Gene Patch [Fr]</name>
+	<author>Eliza513</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>Traduction française du mod Kiiro Race Gene Patch</description>
+	<packageId>Eliza513.KiiroRaceGenePatchFr</packageId>
+
+	<modDependencies>
+		<li> 
+			<packageId>Ancot.KiiroRaceGenePatch</packageId>
+			<displayName>Kiiro Race Gene Patch</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2988200826</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+    
+	<loadAfter>	
+		<li>Ancot.KiiroRaceGenePatch</li>
+	</loadAfter>
+
+</ModMetaData>
